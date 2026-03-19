@@ -1,0 +1,11 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "missing-module-attribute": "none",
+    "bad-return": "none",
+    "internal-error": "none",
+    "bad-function-definition": "none",
+    "bad-argument-type": "none",
+    "no-matching-overload": "none"
+  }
+}
