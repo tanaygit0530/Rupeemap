@@ -48,7 +48,7 @@ export default function LoginPage() {
           <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-gradient-to-br from-purple-600 to-blue-600 mb-4 shadow-lg shadow-purple-500/30">
             <Shield className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-2xl font-bold gradient-text">Fund Flow Tracker</h1>
+          <h1 className="text-2xl font-bold gradient-text">RupeeMap</h1>
           <p className="text-slate-400 text-sm mt-1">AML Intelligence Platform — FIU-IND</p>
         </div>
 
@@ -134,7 +134,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-center text-xs text-slate-600 mt-6">
-          Fund Flow Tracker v1.0 · Powered by Gemini 2.0 Flash
+          RupeeMap v1.0 · Powered by Gemini 2.0 Flash
         </p>
       </div>
     </div>

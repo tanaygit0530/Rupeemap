@@ -280,7 +280,7 @@ export default function DashboardPage() {
             <Shield className="w-4 h-4 text-white" />
           </div>
           <div>
-            <h1 className="font-bold text-white text-sm">Fund Flow Tracker</h1>
+            <h1 className="font-bold text-white text-sm">RupeeMap</h1>
             <p className="text-xs text-slate-500">AML Intelligence Platform</p>
           </div>
         </div>

@@ -38,7 +38,7 @@ UTC = timezone.utc
 ALERT_TRIGGER_THRESHOLD = 30  # Minimum fused score to create an alert
 
 app = FastAPI(
-    title="Fund Flow Tracker API",
+    title="RupeeMap API",
     description="AML detection system powered by Gemini 2.0 Flash",
     version="1.0.0",
 )

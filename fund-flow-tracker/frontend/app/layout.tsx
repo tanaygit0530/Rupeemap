@@ -6,7 +6,7 @@ import { Toaster } from 'sonner'
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 
 export const metadata: Metadata = {
-  title: 'Fund Flow Tracker — AML Intelligence Platform',
+  title: 'RupeeMap — AML Intelligence Platform',
   description: 'Real-time Anti-Money Laundering detection powered by Gemini 2.0 Flash AI',
 }
 

@@ -196,8 +196,7 @@ def _build_pdf(
     story = []
 
     # ── Letterhead ────────────────────────────────────────────────────────────
-    story.append(Paragraph("NATIONAL FUND FLOW INTELLIGENCE SYSTEM", h1))
-    story.append(Paragraph("Suspicious Activity Report — FIU-IND", sub))
+    story.append(Paragraph("RupeeMap | Suspicious Activity Report — FIU-IND", h1))
     story.append(Paragraph(f"Report Date: {datetime.now(UTC).strftime('%d %B %Y')}", sub))
     story.append(HRFlowable(width="100%", thickness=1, color=colors.red, spaceAfter=10))
 
